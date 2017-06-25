@@ -1,0 +1,12 @@
+2017-06-25 17:53:33,044 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-06-25 17:57:46,838 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-06-25 17:57:47,393 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,549 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,552 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,554 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,558 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,560 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,564 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,566 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,568 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
+2017-06-25 17:57:47,571 INFO [cn.mldn.myflume.TestFlumeDemo] - [***** www.mldn.cn *****]
